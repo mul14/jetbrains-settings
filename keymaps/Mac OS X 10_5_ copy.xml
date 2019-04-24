@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="a" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
