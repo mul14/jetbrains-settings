@@ -1,7 +1,0 @@
-<application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_METHODS" value="true" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
-</application>

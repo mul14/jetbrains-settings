@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myPasteOnMiddleMouseButton" value="false" />
     <option name="myShellIntegration" value="false" />
   </component>
 </application>
